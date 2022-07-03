@@ -1,0 +1,13 @@
+{
+    "name": "react-hooks",
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "@types/node": "^18.0.1",
+        "@types/react": "^18.0.14",
+        "@types/react-dom": "^18.0.5",
+        "prettier": "^2.7.1"
+    }
+}
